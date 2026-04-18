@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+hl7_engine.db
+*.log
+.env
+.vscode/
+.idea/
+venv/
